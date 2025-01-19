@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+nav {
+    padding: 1rem;
+    background-color: #333;
+    display: flex;
+    justify-content: space-between;
+    
+
+
+}
+
+.jogo a {
+    font-size: 2rem;
+    color: #fff;
+    text-decoration: none;
+}
+
+.manu {
+    display:  flex;
+    list-style: none;
+    align-items: center;
+
+
+}
+
+.manu {
+    margin: 0 1rem;
+}
+
+.manu ji a {
+
+    color: #fff;
+    text-decoration: none; 
+
+}
+    
+
+
+
+
+
+
+
